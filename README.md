@@ -30,7 +30,3 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dewittgibson-kpmg&show_icons=true&theme=radical)
-
----
-⭐️ From [your-username](https://github.com/your-username)
-

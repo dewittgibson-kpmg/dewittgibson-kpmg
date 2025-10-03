@@ -31,7 +31,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](your-portfolio-url)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dewittgibson-kpmg&show_icons=true&theme=radical)
 
 ---
 ⭐️ From [your-username](https://github.com/your-username)

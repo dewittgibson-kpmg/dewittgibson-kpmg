@@ -20,8 +20,8 @@
 
 ## 📊 Projects
 - [Harbor Master](https://github.com/Safe-Harbor-Cybersecurity/harbormaster) - Light weight API based AI Model Security tool
-- [Project 2](link) - Brief description
-- [Project 3](link) - Brief description
+- [Google Site Kit](https://github.com/dewittgibson-kpmg/site-kit-wp) - Google Site Kit for WordPress
+- [Google Agent Developmet Kit](https://github.com/dewittgibson-kpmg/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
